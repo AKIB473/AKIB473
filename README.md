@@ -1,6 +1,10 @@
 <h1 align="center">Hey, I'm Akibuzzaman Akib 👋</h1>
 
 <p align="center">
+  <img src="akib-photo.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover" alt="Akibuzzaman Akib"/>
+</p>
+
+<p align="center">
   <b>Full-Stack Web Developer · Python · Node.js · Open Source Contributor</b><br/>
   <i>Building things that matter. Contributing to projects that impact millions.</i>
 </p>
