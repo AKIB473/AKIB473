@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Maishad Hassan 👋</h1>
+<h1 align="center">Hey, I'm Akibuzzaman Akib 👋</h1>
 
 <p align="center">
   <b>Full-Stack Web Developer · Python · Node.js · Open Source Contributor</b><br/>
@@ -47,23 +47,28 @@
 
 | Feature | Description | Status |
 |---|---|---|
-| ✅ `TomlConverter` | Converts pyproject.toml, Cargo.toml etc. to structured Markdown | Merged |
-| ✅ `SitemapConverter` | Converts XML sitemaps to Markdown link lists | Merged |
-| ✅ `EnvConverter` | Converts .env files to redacted Markdown tables | Merged |
-| 🐛 CSV pipe-escape fix | Fixed broken Markdown tables when CSV cells contain `\|` or newlines | Merged |
-| ✨ HTML metadata extraction | Added OG tag / meta extraction via `include_html_metadata=True` | Merged |
+| ✅ `TomlConverter` | Converts pyproject.toml, Cargo.toml etc. to structured Markdown | Submitted |
+| ✅ `SitemapConverter` | Converts XML sitemaps to Markdown link lists | Submitted |
+| ✅ `EnvConverter` | Converts .env files to redacted Markdown tables | Submitted |
+| ✅ `YamlConverter` | Converts .yaml/.yml to structured Markdown | Submitted |
+| ✅ `RequirementsConverter` | Converts requirements.txt/Pipfile to Markdown table | Submitted |
+| 🐛 CSV pipe-escape fix | Fixed broken Markdown tables when CSV cells contain `\|` or newlines | Submitted |
+| 🐛 ipynb cell outputs | Fixed missing cell outputs in Jupyter notebooks | Submitted |
+| 🐛 Audio format support | Added .ogg/.flac/.aac support | Submitted |
+| ✨ HTML metadata extraction | Added OG tag / meta extraction via `include_html_metadata=True` | Submitted |
+| ✨ `get_document_stats()` | Word/char/heading/code/link/image count utility | Submitted |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maishad777&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maishad777&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AKIB473&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKIB473&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maishad777&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKIB473&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -71,18 +76,15 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/maishad777">
+  <a href="https://github.com/AKIB473">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://t.me/maishad777">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maishad777&label=Profile%20views&color=0e75b6&style=flat" alt="maishad777"/>
+  <img src="https://komarev.com/ghpvc/?username=AKIB473&label=Profile%20views&color=0e75b6&style=flat" alt="AKIB473"/>
 </p>
 
 <p align="center"><i>"The best way to learn is to build something real and share it with the world."</i></p>
